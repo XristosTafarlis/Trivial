@@ -1,4 +1,4 @@
 # Trivial
 Trivial Game
 
-This project was created for the "Mutymedia" class at Ionian University
+This project was created for the "Mutimedia" class at Ionian University
